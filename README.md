@@ -1,4 +1,4 @@
-<h1>AuE 8200: Machine Perception and Intelligence</h1>
+<h1>Course Information</h1>
 
 
 ![0001](https://user-images.githubusercontent.com/83747696/160178575-f2ba1cb6-7ce8-4993-b8a2-57b8c0a7d7dd.jpg)
