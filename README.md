@@ -1,9 +1,9 @@
 This repository includes the assignments for the <b><u>Machine Perception and Intelligence</b></u> course completed on the following topics :
-- Deep neural networks (DNNs),
-- Convolutional Neural Networks (CNN),
-- Recurrent and Recursive Neural Networks (RNN),
-- Long Short-Term Memory (LTSM),
-- Generative Adversarial Networks (GANs)
+- Radar signal processing,
+- Image processing,
+- Featuer extraction and representation,
+- Geometry and point cloid processing,
+- DL for LiDAR detection
 
 All projects were done with `Python` in `Jupyter Notebook`. 
 Libraries used: `Numpy`, `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` 
