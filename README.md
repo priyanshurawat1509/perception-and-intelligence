@@ -1,4 +1,4 @@
-This repository includes the mini projects for the <b><u>Machine Perception and Intelligence</b></u> course completed on the following topics :
+This repository includes the assignments for the <b><u>Machine Perception and Intelligence</b></u> course completed on the following topics :
 - Deep neural networks (DNNs),
 - Convolutional Neural Networks (CNN),
 - Recurrent and Recursive Neural Networks (RNN),
