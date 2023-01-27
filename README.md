@@ -6,7 +6,7 @@ This repository includes the assignments for the <b><u>Machine Perception and In
 - DL for LiDAR detection
 
 All projects were done with `Python` in `Jupyter Notebook`. 
-Libraries used: `Numpy`, `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` 
+Libraries used: `Numpy`, `Pytorch`, `PIL`, `OpenCV`, `Open3d`
 
 ![0001](https://user-images.githubusercontent.com/83747696/160178575-f2ba1cb6-7ce8-4993-b8a2-57b8c0a7d7dd.jpg)
 ![0002](https://user-images.githubusercontent.com/83747696/160178592-5838e240-c902-4f85-a320-b91b55e727a8.jpg)
