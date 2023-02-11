@@ -1,3 +1,5 @@
+# perception-and-intelligence
+
 This repository includes the assignments for the <b><u>Machine Perception and Intelligence</b></u> course completed on the following topics :
 - Radar signal processing,
 - Vehicle sensor data processing,
