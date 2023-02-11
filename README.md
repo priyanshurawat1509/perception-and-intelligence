@@ -8,4 +8,4 @@ This repository includes the assignments for the `Machine Perception and Intelli
 - DL for LiDAR detection
 
 All projects/assignments were completed using `Python` in `Jupyter Notebook`. 
-Libraries used: `Numpy`, `Pytorch`, `PIL`, `OpenCV`, `Open3d`
+Libraries used: `Numpy`, `Pytorch`, `PIL`, `OpenCV`, `Open3d`.
